@@ -122,8 +122,17 @@ h4 {
     margin: 20px;
 }
 
-.life_style {
+.advice-section {
 
-        margin-left: 50px;
+    align-items: center;
+    background-color: rgb(172, 115, 154);
+    color: cornsilk;
+    width: 80%;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 24px;
+    font-family: fangsong;
+   
 
 }
